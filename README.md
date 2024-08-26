@@ -1,5 +1,8 @@
 # DATAVIZ with FREE API
 
+Create with React !
+https://dataviz-cryptocurrency.vercel.app/
+
 Utilisation du local storage (pour la liste des favoris), graphiques pour visualisation des données avec Recharts
 
 Partie 2 : ajout de Redux
